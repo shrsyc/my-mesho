@@ -1,4 +1,4 @@
-package my-mesho.com;
+package mymesho.com;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
