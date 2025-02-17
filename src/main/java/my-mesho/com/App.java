@@ -1,4 +1,4 @@
-package my-mesho.com;
+package mymesho.com;
 
 
 public class App {
