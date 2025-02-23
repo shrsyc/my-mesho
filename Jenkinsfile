@@ -1,5 +1,5 @@
 pipeline{
-    agent java_slave_node
+    agent { label 'java_slave_node' }
     tools{
         maven 'maven'
     }
