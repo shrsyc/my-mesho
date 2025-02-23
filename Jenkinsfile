@@ -1,5 +1,5 @@
 pipeline{
-    agent any
+    agent java_slave_node
     tools{
         maven 'maven'
     }
